@@ -28,7 +28,10 @@ Hey! I am going to leave here the solutions to the [**Advent of Code 2022**](htt
 
 I will solve the puzzles in python notebooks 
 
-- Day 1 (December 1, 2021): Calorie Counting. [Puzzle](https://adventofcode.com/2022/day/1) - [Solution](notebooks/01_calorie_counting.ipynb).
+- Day 1 (December 1, 2022): Calorie Counting. [Puzzle](https://adventofcode.com/2022/day/1) - [Solution](notebooks/01_calorie_counting.ipynb).
+- Day 2 (December 2, 2022): Rock Paper Scissors. [Puzzle](https://adventofcode.com/2022/day/2) - [Solution](notebooks/02_rock_paper_scissors.ipynb).
+- Day 3 (December 3, 2022): Rucksack Reorganization. [Puzzle](https://adventofcode.com/2022/day/3) - [Solution](notebooks/03_rucksack_reorganization.ipynb).
+- Day 4 (December 4, 2022): Camp Cleanup. [Puzzle](https://adventofcode.com/2022/day/4) - [Solution](notebooks/04_camp_cleanup.ipynb).
 
 
 
