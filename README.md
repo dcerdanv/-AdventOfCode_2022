@@ -32,6 +32,7 @@ I will solve the puzzles in python notebooks
 - Day 2 (December 2, 2022): Rock Paper Scissors. [Puzzle](https://adventofcode.com/2022/day/2) - [Solution](notebooks/02_rock_paper_scissors.ipynb).
 - Day 3 (December 3, 2022): Rucksack Reorganization. [Puzzle](https://adventofcode.com/2022/day/3) - [Solution](notebooks/03_rucksack_reorganization.ipynb).
 - Day 4 (December 4, 2022): Camp Cleanup. [Puzzle](https://adventofcode.com/2022/day/4) - [Solution](notebooks/04_camp_cleanup.ipynb).
+- Day 5 (December 5, 2022): Supply Stacks. [Puzzle](https://adventofcode.com/2022/day/5) - [Solution](notebooks/05_supply_stacks.ipynb).
 
 
 
