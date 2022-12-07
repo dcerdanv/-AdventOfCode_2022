@@ -34,6 +34,7 @@ I will solve the puzzles in python notebooks
 - Day 4 (December 4, 2022): Camp Cleanup. [Puzzle](https://adventofcode.com/2022/day/4) - [Solution](notebooks/04_camp_cleanup.ipynb).
 - Day 5 (December 5, 2022): Supply Stacks. [Puzzle](https://adventofcode.com/2022/day/5) - [Solution](notebooks/05_supply_stacks.ipynb).
 - Day 6 (December 6, 2022): Supply Stacks. [Puzzle](https://adventofcode.com/2022/day/6) - [Solution](notebooks/06_tuning_trouble.ipynb).
+- Day 7 (December 7, 2022): Supply Stacks. [Puzzle](https://adventofcode.com/2022/day/7) - [Solution](notebooks/07_no_space_left_on_device.ipynb).
 
 
 
