@@ -36,6 +36,7 @@ I will solve the puzzles in python notebooks
 - Day 6 (December 6, 2022): Tuning Trouble. [Puzzle](https://adventofcode.com/2022/day/6) - [Solution](notebooks/06_tuning_trouble.ipynb).
 - Day 7 (December 7, 2022): No Space Left On Device. [Puzzle](https://adventofcode.com/2022/day/7) - [Solution](notebooks/07_no_space_left_on_device.ipynb).
 - Day 8 (December 8, 2022): Treetop Tree House. [Puzzle](https://adventofcode.com/2022/day/8) - [Solution](notebooks/08_treetop_tree_house.ipynb).
+- Day 9 (December 9, 2022): Rope Bridge. [Puzzle](https://adventofcode.com/2022/day/9) - [Solution](notebooks/09_rope_bridge.ipynb).
 
 
 
